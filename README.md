@@ -4,7 +4,7 @@ Este projeto tem como objetivo criar um modelo preditivo para estimar a renda de
 
 ## Estrutura do Projeto
 
-### 1. [Notebook previsão de renda]
+### 1. Notebook Previsão de Renda
 Este notebook contém a análise detalhada e a criação do modelo preditivo para a previsão de renda. Aqui, utilizamos diversas técnicas de aprendizado de máquina para construir um modelo robusto, sendo o processo dividido nas seguintes etapas:
 
 - **Carregamento dos dados:** utilização do comando pd.read_csv.
@@ -14,7 +14,7 @@ Este notebook contém a análise detalhada e a criação do modelo preditivo par
 - **Principais Resultados**: As variáveis mais importantes para a previsão de renda incluem tempo de emprego e idade. 
 
 
-### 2. [Análise Gráfica Interativa]
+### 2. Análise Gráfica Interativo
 Este notebook é focado na visualização gráfica interativa dos dados e dos resultados obtidos. Ele permite que o usuário explore diferentes aspectos da análise, tais como:
 
 - **Distribuição das variáveis**: Gráficos interativos que mostram como as variáveis estão distribuídas, permitindo visualizar padrões nos dados.
