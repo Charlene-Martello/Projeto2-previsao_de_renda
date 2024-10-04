@@ -443,15 +443,6 @@ plt.show()
 
 
 # ## Etapa 3 Crisp-DM: Preparação dos dados
-# Nessa etapa realizamos tipicamente as seguintes operações com os dados:
-# 
-#  - **seleção**: Já temos os dados selecionados adequadamente?
-#  - **limpeza**: Precisaremos identificar e tratar dados faltantes
-#  - **construção**: construção de novas variáveis
-#  - **integração**: Temos apenas uma fonte de dados, não é necessário integração
-#  - **formatação**: Os dados já se encontram em formatos úteis?
-# 
-# 
 
 # Inicialmente vamos ver informações gerais sobre os dados:
 
